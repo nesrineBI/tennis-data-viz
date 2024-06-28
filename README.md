@@ -1,1 +1,2 @@
 # tennis-data-viz
+This project aims to analyze and visualize tennis match data using Python and Seaborn. It provides various visualizations that offer insights into player performance, match outcomes, and other relevant statistics derived from the dataset.
